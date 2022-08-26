@@ -33,7 +33,7 @@
     .menu {
         position: absolute;
         text-align: center;
-        width: 200px;
+        width: 100%;
         display: none;
     }
 
@@ -1195,7 +1195,7 @@
     .menu {
         position: absolute;
         text-align: center;
-        width: 200px;
+        width: 100%;
         display: none;
     }
 
@@ -2384,7 +2384,7 @@
     .menu {
         position: absolute;
         text-align: center;
-        width: 85%;
+        width: 100%;
         display: none;
     }
 
@@ -3509,7 +3509,7 @@
     .menu {
         position: absolute;
         text-align: center;
-        width: 85%;
+        width: 100%;
         display: none;
     }
 
@@ -4633,7 +4633,7 @@
     .menu {
         position: absolute;
         text-align: center;
-        width: 85%;
+        width: 100%;
         display: none;
     }
 
