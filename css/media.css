@@ -35,12 +35,13 @@
         text-align: center;
         width: 100%;
         display: none;
+        left: 0;
     }
 
     .menu a {
         display: block;
         border-bottom: 1px solid #424242;
-        background: #0e0e0e;
+        background: #121111ed;
         margin: 0;
     }
 
@@ -1197,12 +1198,13 @@
         text-align: center;
         width: 100%;
         display: none;
+        left: 0;
     }
 
     .menu a {
         display: block;
         border-bottom: 1px solid #424242;
-        background: #0e0e0e;
+        background: #121111ed;
         margin: 0;
     }
 
@@ -2386,12 +2388,13 @@
         text-align: center;
         width: 100%;
         display: none;
+        left: 0;
     }
 
     .menu a {
         display: block;
         border-bottom: 1px solid #484848;
-        background: #0e0e0e;
+        background: #121111ed;
         margin: 0;
     }
 
@@ -3511,12 +3514,13 @@
         text-align: center;
         width: 100%;
         display: none;
+        left: 0;
     }
 
     .menu a {
         display: block;
         border-bottom: 1px solid #484848;
-        background: #0e0e0e;
+        background: #121111ed;
         margin: 0;
     }
 
